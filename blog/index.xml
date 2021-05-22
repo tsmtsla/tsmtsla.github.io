@@ -6,7 +6,7 @@
     <description>Recent content in blog on 小蘇的個人網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://tsmtsla.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0800</lastBuildDate><atom:link href="https://tsmtsla.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>水電小白[插座更換] 😎😎😎 </title>
       <link>https://tsmtsla.github.io/blog/mylife-1/</link>
@@ -39,15 +39,6 @@
       <guid>https://tsmtsla.github.io/blog/markdown/</guid>
       <description>Markdown語法練習： 1.標題(#)：共6級 我是4級標題 2.內文： 換行 ==&amp;gt; 需要 空白列
 3.粗體(** **)： 我是粗體</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://tsmtsla.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>
