@@ -6,7 +6,7 @@
     <description>Recent content on 小蘇的個人網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 15 May 2021 14:07:47 +0800</lastBuildDate><atom:link href="https://tsmtsla.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 May 2021 13:49:23 +0800</lastBuildDate><atom:link href="https://tsmtsla.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>水電小白[插座更換] 😎😎😎 </title>
       <link>https://tsmtsla.github.io/blog/mylife-1/</link>
@@ -39,6 +39,24 @@
       <guid>https://tsmtsla.github.io/blog/markdown/</guid>
       <description>Markdown語法練習： 1.標題(#)：共6級 我是4級標題 2.內文： 換行 ==&amp;gt; 需要 空白列
 3.粗體(** **)： 我是粗體</description>
+    </item>
+    
+    <item>
+      <title>Get In Touch</title>
+      <link>https://tsmtsla.github.io/contact/%E5%8E%9F%E5%A7%8B2_index/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://tsmtsla.github.io/contact/%E5%8E%9F%E5%A7%8B2_index/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Get In Touch</title>
+      <link>https://tsmtsla.github.io/contact/%E9%8E%AE%E6%B4%B2%E5%8E%9F%E5%A7%8B%E6%AA%94_index/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://tsmtsla.github.io/contact/%E9%8E%AE%E6%B4%B2%E5%8E%9F%E5%A7%8B%E6%AA%94_index/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
   </channel>
