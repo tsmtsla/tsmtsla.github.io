@@ -1,0 +1,11 @@
+1.featured-post ： 老師作品網頁最上面輪播使用
+
+2.masonary-post ： 老師作品網頁的首頁使用
+
+3.studio : 畫室作品
+
+4.draw : 慈大繪畫班
+
+4.oil : 油畫班
+
+5.sketch ： 素描班
