@@ -1,316 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elly老師的畫畫教學園地</title>
+    <title>小蘇的個人網站</title>
     <link>https://tsmtsla.github.io/</link>
-    <description>Recent content on Elly老師的畫畫教學園地</description>
+    <description>Recent content on 小蘇的個人網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 13 Jun 2021 17:46:10 +0800</lastBuildDate><atom:link href="https://tsmtsla.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 May 2021 13:49:23 +0800</lastBuildDate><atom:link href="https://tsmtsla.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>在霧裡</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.1/</link>
-      <pubDate>Sun, 13 Jun 2021 17:46:10 +0800</pubDate>
+      <title>水電小白[插座更換] 😎😎😎 </title>
+      <link>https://tsmtsla.github.io/blog/mylife-1/</link>
+      <pubDate>Sat, 15 May 2021 14:07:47 +0800</pubDate>
       
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.1/</guid>
-      <description></description>
+      <guid>https://tsmtsla.github.io/blog/mylife-1/</guid>
+      <description>【學校沒教的事】😱  水電小白插座更換
+ 安全提醒：首要〖斷電〗〖斷電〗〖斷電〗👊
+家裡的插座用久了,總是需要更換
+不曉得朋友們有沒有遇到,插座拆掉之後,裡面的電線
+怎麼和說明書長得不一樣 😱
+我自己的是拆掉插座後</description>
     </item>
     
     <item>
-      <title>智慧</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.2/</link>
-      <pubDate>Sun, 13 Jun 2021 14:46:10 +0800</pubDate>
+      <title>現實的烏龜 🤬🤬🤬 </title>
+      <link>https://tsmtsla.github.io/blog/myturtle-1/</link>
+      <pubDate>Fri, 14 May 2021 10:07:47 +0800</pubDate>
       
-      <guid>https://tsmtsla.github.io/blog/studio/studio.2/</guid>
-      <description></description>
+      <guid>https://tsmtsla.github.io/blog/myturtle-1/</guid>
+      <description>放飯才會找主人（ 110.04.08 ）🐢    .
+  </description>
     </item>
     
     <item>
-      <title>落花</title>
-      <link>https://tsmtsla.github.io/blog/organize-your-life.3/</link>
-      <pubDate>Sun, 13 Jun 2021 14:46:10 +0800</pubDate>
+      <title>Markdown 語法教學！</title>
+      <link>https://tsmtsla.github.io/blog/markdown/</link>
+      <pubDate>Thu, 13 May 2021 10:07:47 +0800</pubDate>
       
-      <guid>https://tsmtsla.github.io/blog/organize-your-life.3/</guid>
-      <description></description>
+      <guid>https://tsmtsla.github.io/blog/markdown/</guid>
+      <description>Markdown語法練習： 1.標題(#)：共6級 我是4級標題 2.內文： 換行 ==&amp;gt; 需要 空白列
+3.粗體(** **)： 我是粗體</description>
     </item>
     
     <item>
-      <title>愛因斯坦</title>
-      <link>https://tsmtsla.github.io/blog/organize-your-life.5/</link>
-      <pubDate>Sat, 12 Jun 2021 15:46:10 +0800</pubDate>
+      <title>Get In Touch</title>
+      <link>https://tsmtsla.github.io/contact/%E5%8E%9F%E5%A7%8B2_index/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://tsmtsla.github.io/blog/organize-your-life.5/</guid>
-      <description></description>
+      <guid>https://tsmtsla.github.io/contact/%E5%8E%9F%E5%A7%8B2_index/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>京劇</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.1/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
+      <title>Get In Touch</title>
+      <link>https://tsmtsla.github.io/contact/%E9%8E%AE%E6%B4%B2%E5%8E%9F%E5%A7%8B%E6%AA%94_index/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://tsmtsla.github.io/blog/studio/studio.1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>女孩</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.3/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/studio/studio.3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>橋</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.9/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/studio/studio.9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>浪花</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.4/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/studio/studio.4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>穿韓服的女孩</title>
-      <link>https://tsmtsla.github.io/blog/organize-your-life.4/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/organize-your-life.4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>花卉</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.7/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/studio/studio.7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>花季少女</title>
-      <link>https://tsmtsla.github.io/blog/organize-your-life.2/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/organize-your-life.2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>豐盛</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.6/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/studio/studio.6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>貓狗一家</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.5/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/studio/studio.5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>長春祠</title>
-      <link>https://tsmtsla.github.io/blog/draw/draw.1/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/draw/draw.1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>長春祠</title>
-      <link>https://tsmtsla.github.io/blog/oil/oil.1/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/oil/oil.1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>長春祠</title>
-      <link>https://tsmtsla.github.io/blog/organize-your-life.1/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/organize-your-life.1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>長春祠</title>
-      <link>https://tsmtsla.github.io/blog/sketch/sketch.1/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/sketch/sketch.1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>雙胞胎</title>
-      <link>https://tsmtsla.github.io/blog/studio/studio.8/</link>
-      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/studio/studio.8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>凝視(臨摹)</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.2/</link>
-      <pubDate>Thu, 10 Jun 2021 15:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>兩後</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.3/</link>
-      <pubDate>Thu, 10 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>海的女孩(臨摹)</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.5/</link>
-      <pubDate>Sat, 05 Jun 2021 16:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>天真女孩</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.6/</link>
-      <pubDate>Sat, 05 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>法國吐司</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.7/</link>
-      <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>無敵鐵金鋼</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.4/</link>
-      <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>熟悉的人</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.8/</link>
-      <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>石虎</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.10/</link>
-      <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>龍貓與女孩</title>
-      <link>https://tsmtsla.github.io/blog/charming-evening-field.9/</link>
-      <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/blog/charming-evening-field.9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>關於我</title>
-      <link>https://tsmtsla.github.io/about/</link>
-      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://tsmtsla.github.io/about/</guid>
-      <description>哈囉～我是Elly老師 我熱愛繪畫 ～與妳分享 </description>
-    </item>
-    
-    <item>
-      <title>多欄式呈現</title>
-      <link>https://tsmtsla.github.io/homepage/home-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsmtsla.github.io/homepage/home-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>慈大繪畫班</title>
-      <link>https://tsmtsla.github.io/homepage/home-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsmtsla.github.io/homepage/home-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>搜尋結果</title>
-      <link>https://tsmtsla.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsmtsla.github.io/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>油畫班</title>
-      <link>https://tsmtsla.github.io/homepage/home-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsmtsla.github.io/homepage/home-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>畫室</title>
-      <link>https://tsmtsla.github.io/homepage/home-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsmtsla.github.io/homepage/home-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>素描班</title>
-      <link>https://tsmtsla.github.io/homepage/home-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsmtsla.github.io/homepage/home-5/</guid>
-      <description></description>
+      <guid>https://tsmtsla.github.io/contact/%E9%8E%AE%E6%B4%B2%E5%8E%9F%E5%A7%8B%E6%AA%94_index/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
   </channel>
