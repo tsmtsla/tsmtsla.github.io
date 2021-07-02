@@ -1,0 +1,13 @@
+對應的【分類】：
+
+1.gallery：相簿
+  certificate：證書
+  turtle：關於我的頁面 ～烏龜照片
+
+2.compute：電腦疑難雜症
+
+3.mylife：生活智慧王
+
+4.programming：程式語言
+
+5.turtle：龜奴的日常
